@@ -1,0 +1,107 @@
+* Mechanisms of the human digestive system
+  - ideal digestive system eliminates toxins, governs the immune system, absorbs
+    nutrients, provides peak mental health
+** The mouth and esophagus
+   - chewing is critical for good digestion
+   - esophagus and les (lower esophageal sphincter)
+** Stomach
+   - only digestive organ that mechanically, chemically, and enzymatically
+     digests food
+*** Mechanically
+    - muscles that churn food contents and mix with acid and pepsin
+    - lower stomach sphincter propels food into duodenum or pushes back into
+      stomach for more digesting
+*** Chemically
+    - hydrochloric acid
+      - acid does not digest food, just maintains proper pH balance, allowing
+        gastrin to be able to break down food
+      - also eliminates any excess bactera that were ingested
+      - can help denature proteins but pepsin does majority
+    - stomach produces mucus which coats and protects the stomach wall so will
+      not be harmed by gastric acid
+*** Enzymatically/Hormonal
+    - once stomach distends, gastrin released
+      - can also be released by stimulation of vagus nerve, undigested proteins
+        in stomach, and elevated levels of calcium in blood
+      - stimulates stomach cells to release HCL, activates stomach cell growth,
+        initiates the secretion of pepsinogen, which becomes protein enzyme
+        pepsin, induces pancreatic secretions, gallbladder emptying, and causes
+        LES to tighten and begin digestion
+      - excess of stomach acid inhibits gastrin production
+    - pepsin is primary enzyme used by stomach to digest protein
+      - breaks protein into amino acids body can absorb and then becomes
+        inactivated, by turning back into pepsinogen when it is mixed with
+        bicarbonate released from pancreas in small intestine. This protects
+        rest of intestinal system from pepsin and stomach acid
+    - lipase breaks down fats
+    - mucin coats lining of stomach
+** On gastrin
+   - hormone that controls digestion
+   - gastrin release occurs because:
+     - stomach body expands from consumption
+     - vagus nerve stimulation
+     - partially digested protein or amino acid supplements in stomach
+     - hypercalcemia
+     - ingestion of coffee and alcohol
+     - h pylori colonization of the antrum
+     - using medications including andrenergic stimulating drugs, cholinergic
+       agents, and H2 antagonists / PPI's
+     - hormone bombesin, ephinephrine, and gastrin releasing peptide
+     - gastrin producing tumors
+     - zollinger-ellison syndrome
+   - signals stomach to secrete gastric acid and release histamine
+   - does a lot to improve digestion
+     - causes chief cells in stomach to produce pepsinogen, which becomes pepsin
+     - decreases upper stomach contractoins and motility to help improve
+       digestion by increasing stomach relaxation to allow ingestion of more
+       food and further digestion by stomach acid and pepsin
+     - opens pyloric sphincter and increases rate of gastric emptying
+     - increases small intestine MMC function and helps relax ileocecal valve
+     - induces pancreatic enzyme secretion
+     - stimulates bile release from gallbladder
+     - helps regulate production of gastric epithelial cells, tissue repair, and
+       blood vessel growth in stomach
+   - gastrin production limited when stomach pH is below three, fasting,
+     pancreas releases somatostatin, inhibitory peptide, secretin, glucagon, and calcitonin
+   - when most food out of stomach, enterogastric reflex occurs to reduce
+     gastric motility, gastrin release, and gastric acid production
+   - to produce appropriate gastrin levels, need to balance calcium levels,
+     reduce upper gut overgrowth like h pylori, and maintain proper stomach ph
+   - can achieve proper stomach ph by ingesting betaine HCL, acidic foods, or
+     digestive bitters towards end of meal if you can tolerate them to help
+     accurately control gastrin production and aid digestion
+** Intrinsic factor
+   - intrinsic factor helps absorb vitamin B12 further along in intestines
+   - production of intrinsic factor in stomach can be hindered by having low
+     stomach acid or by taking medications that lower stomach acid
+   - supplementation of B12 might be needed
+** Liver, gallbladder, and pancreas
+   - further regulate the enzymatic and chemical side of digestion
+   - liver produces bile and releases to small intestine or gallbladder where it
+     is stored till needed
+   - bile breaks down fats so digestive enzymes can fully break down food
+   - pancreas produces acinar cells, responsible for releasing most of digestive
+     enzymes into intestines
+     - also makes ductal cells which release sodium bicarbonate into small
+       intestine to neutralize stomach acid released from stomach into duodenum
+** Small intestine
+   - three parts, duodenum, jejunum, and ileum
+   - mostly enzymatic digestion
+   - cilia and muscle contractions move chyme through intestines (peristalsis)
+*** Major nutrients that are digested in the small intestine
+    - proteins break into peptides an amino acids
+    - pepsin begins process in stomach, small intestine breaks down further
+    - lipids degrade into fatty acids and glycerol. Pancreatic lipase breaks
+      down triglycerides into free fatty acids and monoglycerides (accomplishes
+      with help of bile acid salts which emulsify triglycerides until lipase can
+      break down further to enter villi for absorption
+    - pancreatic amylase breaks down carbohydrates into oligosaccharides
+    - some simple carbohydrates can be converted quickly into glucose and be absorbed
+    - other carbohydrates pass undigested into large intestine where they
+      ferment before being broken down by bacteria
+    - cellulose cannot be broken down by humans and passes through intestines
+*** Nutrients that are absorbed in small intestine
+    - iron in duodenum
+    - water, fat, and fructose
+    - vitamin B12 and bile salts in ileum
+    - sodium bicarbonate
