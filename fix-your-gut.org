@@ -105,3 +105,102 @@
     - water, fat, and fructose
     - vitamin B12 and bile salts in ileum
     - sodium bicarbonate
+**** duodenum
+     - primarily responsible for breakdown of food in small intestine
+     - hormones secretin and cholecystokinin cause liver or gallbladder to
+       release bile, and pancreas to release bicarbonate and digestive enzymes
+     - secretin helps regulate ph in duodenum by inactivating gastric acid secretion
+**** jejunum
+     - absorption of small nutrient particles by enterocytes
+     - once absorbed, nutrients pass from enterocytes into enterohepatic
+       circulation and enter liver via the hepatic portal vein where blood is filtered
+     - jejunum end of chemical digestion and most byproducts of chemical
+       digestion (bile, bicarbonate) are absorbed back into body in ileum
+**** ileum
+     - absorbs nutrients and digestive byproducts
+     - absorbs B12, as well as bile, fatty acids, and glycerol
+     - release protease to break down remaining proteins
+     - remaining chyme deposits into large intestine through ileocecal valve to
+       turn into feces
+** Large intestine
+   - peristalsis slows to allow probiotic bacteria to ferment chyme
+   - converts chyme into feces to be eliminated from body (about sixteen hours)
+   - removes excess water and any remaining absorbable nutrients from chyme
+     before sending indigestible matter to rectum
+   - houses over seven hundred species of bacteria that perform a variety of
+     functions for human body
+   - colon absorbs vitamins produced by colonic bacterial metabolism from
+     fermenting food (vitamin K, B12, thiamine, riboflavin, and biotin)
+   - undigested fiber other than cellulose metabolized into short-chain fatty
+     acids and absorbed into bloodstream
+   - flatulence, caused by bacterial fermentation, formed and expelled through
+     large intestine during digestion
+   - probiotic gut flora essential in developing large intestine epithelial
+     cells, lymphatic cells, cross-reactive antibodies (that eliminate foreign
+     bacteria), and help maintain natural mucus barrier
+   - feces travel down large intestine by peristalsis, pass through colon, and
+     expelled through anal sphincter
+** Immune system and Gut/ GALT
+   - intestinal system one of most important components of immune system
+   - intestines made up of both probiotics and gut-associated lymphoid tissue
+     that helps regulate a significant part of human immune system
+   - gut contains largest mass of lymphoid tissue in body
+   - lymphoid tissue help destroy pathogens
+   - 50 to 80 percent of immune system stored in GALT
+   - GALT lies behind mucosal lining of gut and only one cell wall thick
+   - probiotic bacteria live in symbiosis with GALT and partially compose entire
+     immune system
+   - probiotics both yeast and bacteria that help maintain proper
+     gastrointestinal function, break down lactose, manufacture and absorb
+     vitamin K, B12, thiamine, riboflavin, biotin, destroy opportunistic
+     bacteria, and ferment carbohydrates for digestion
+** The gut: the second brain
+   - if gastrointestinal system if having problems functioning normally, can
+     create depression and increase anxiety levels
+   - gut has nervous system, enteric nervous system
+   - ENS influences mental health function because of large network of neurons,
+     nerves, and neurotransmitters
+   - ens communicates with cns using vagus nerve and prevertebral ganglia
+   - neurons in ens can control peristalsis and what digestive enzymes are released
+   - uses more than thirty neurotransmitters identical to ones in CNS
+   - serotonin used in large amounts in gut for muscle contractions needed in
+     peristalsis of food
+   - ninety percent of anyone's serotonin and fifty percent of dopamine found in gut
+   - bacteria can influence what hormones and neurotransmitters are used in gut
+   - if you have leaky gut, may affect brain by excessive amounts of
+     neurotransmitters, pathogens, and toxins being able to cross blood-brain barrier
+** What is melatonin?
+   - melatonin is neurotransmitter that was originally believed to be produced
+     only be pineal bland in brain
+   - very important to overall function of human body acting as antioxidant,
+     regulating circadian rhythm (internal clock), reduces blood pressure, and
+     leptin levels (hormone that inhibits hunger) during sleep
+   - been discovered in large quantities in other organs as well
+   - also synthesized by gut flora at rates 400 times greater than pineal gland
+   - large amounts in vermiform appendix, which appears to be safe house for
+     probiotic flora during gastrointestinal infection
+   - bacteria have circadian rhythm, so they produce melatonin in dark and
+     possibly as signaling hormone
+** Melatonin and the gut
+   - not much is known but here are some theories
+     - protects gastric mucosa from free radicals, medications, and gastrotoxic agents
+     - reduces production of hcl and pepsin production when sleeping. Reduces
+       the chance of esophageal, peptic, and duodenal ulcers
+     - reduction of reflux while sleeping and awake
+     - improves les and ues pressure regulation
+     - reduces risk of developing barrett's esophagus by increasing blood flow
+       to esophagus and reducing inflammation
+     - reduction of bowel spasms and improving mmc function in people with sibo-d
+     - reinforces proper mmc function during sleep by regulating the
+       interstitial cells of Cajal. Majority of MMC functions occurs while we
+       sleep; it is longest period of fasting for body
+** Sleep hygiene and melatonin
+   - we are supersaturated with blue light during night
+   - blue light reduces melatonin production and increases serotonin which keeps
+     us awake
+   - light from cell phone screens and led monitors
+   - light pollution through blinds interferes
+   - how to ensure proper melotonin production?
+   - first make gut flora happy by avoiding sugar and polyols and focus on
+     diverse seasonal diet
+   - eat prebiotic fiber (limit supplemental prebiotics, except for GOS occasionally)
