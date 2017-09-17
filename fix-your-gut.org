@@ -290,3 +290,36 @@
    - gastroesophageal reflux disease is condition where mucosal damage is done
      to esophagus from chronic stomach acid and pepsin being trapped between
      stomach and upper esophageal sphincter. This "trapping" gives
+* Disorders of the intestines
+** SIBO / SIYO / Leaky Gut Syndrome
+   - SIBO is opportunistic bacterial infection in small intestine
+   - caused by combination of poor american diet and long-term use of
+     acid-reducing medication
+   - bacteria normally eliminated by stomach acid survive and flourish in small intestine
+   - food proteins become partially undigested
+   - allergies develop from undigested proteins as well as excessive flatulence
+     and increased inflammation
+   - bacteria produce protective biofilms which make eradication with
+     antibiotics very difficult
+   - biofilm disruption can occur by breaking down biofilm itself using system
+     enzymes or by chelating iron out of biofilm to dissolve it. To chelate you
+     can use calcium disodium EDTA, lactoferrin, or NAC
+   - symptoms
+     - indigestion
+     - sharp increase or decrease in flatulence
+     - constipation or diarrhea
+     - reflux
+     - bloating
+     - abdominal pain
+     - food allergies
+     - low-grade fever
+     - big correlation with rosacea
+   - most people with IBS have SIBO
+*** How to diagnose SIBO
+    - hydrogen / methane breath test
+      - not that reliable
+      - best to tackle SIBO if you have many of symptoms with protocol and see
+        how you feel
+*** Are opportunistic bacteria one of the main causes of leaky gut?
+    - bacteria produce gas byproducts and toxins
+    - cycle can lead to nutrient deficiencies in B12 and iron
