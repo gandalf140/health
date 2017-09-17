@@ -203,4 +203,90 @@
    - how to ensure proper melotonin production?
    - first make gut flora happy by avoiding sugar and polyols and focus on
      diverse seasonal diet
-   - eat prebiotic fiber (limit supplemental prebiotics, except for GOS occasionally)
+   - eat prebiotic fiber (limit supplemental prebiotics, except for GOS
+     occasionally) and fermented foods
+   - flora in gut produce lot of melatonin so want to make them strong
+   - limit blue light at night
+     - wear blue light blocking glasses
+     - install programs like f.lux on computer
+     - do not fall asleep with television or any electronic device on
+     - blackout curtains
+   - improve sleep hygiene
+     - do not sleep in frigid or sweltering bedroom
+     - optimal temperature 60-70
+     - do not go to sleep on full stomach
+     - sleep on left side or back for greatest oxygen saturation. Sleeping on
+       left side puts more pressure on LES keeping it closed
+     - take in small amount of carbohydrates before bed. One or two teaspoons or
+       raw honey or twenty grams of trehalose before bed mixed with spring water
+       can help improve sleep by stabilizing blood glucose
+     - turn off non-native EMF (wifi, phone etc)
+** What is CCK and what does it do?
+   - CCK stands for cholecystokinin and it is synthesized in mucosal epithelium
+     of small intestine and secreted into duodenum. Release of CCK is stimulated
+     by peptide released by pancreatic acinar cells and CCK releasing protein
+     secreted by enterocytes in mucosa. Greatest stimulator is presence of
+     fatty/amino acids in chyme when it enters duodenum
+*** The hormone does a lot including
+    - stimulating release of bile from gallbladder and digestive enzymes from pancreas
+    - increases bile production by liver
+    - increases sodium bicarbonate production by pancreas to neutralize stomach acid
+    - slows down gastric emptying and decreases stomach acid secretion
+    - induces satiety
+    - increases opioid tolerance
+    - plays a role in increasing sensitivity to pain
+    - reduces inflammatory markers including TNF and Il-6
+    - increases aldosterone (homrone that increases retention of sodium and
+      increases blood pressure) and cortisol
+    - helps to regulate MMC function in conjunction with the hypothalamus
+    - overproduction can lead to postprandial fatigue and sleepiness (the ITIS!)
+    - as chyme, digestive enzymes, and bile pass further into small intestine,
+      CCK release diminishes
+*** So what does all this have to do with anxiety?
+    - single CCK peptide known as CCK-4 to blame
+    - when fat digestion issues, upper gut infections, SIBO, or leaky gut, CCK
+      peptides are more likely to cross the BBB (specifically CCK-4)
+    - it overstimulates the vagus nerve and induces panic
+    - studies show CCK-4, injected into bloodstream, causes panic attacks
+    - capsaicin blunts CCK-4 effects, reducing anxiety
+    - digestive enzyme supplements that include amylase and trypsin might reduce overproduction
+*** So CCK is not to blame for digestive caused anxiety, right?
+    - not CCK but overproduction from digestive issues or leaky gut
+    - most of time CCK overproduced when eat high fat meal or have issue with
+      organs that help with fat digestion
+    - fat malabsorption can cause diarrhea and in doing so overstimulates vagus
+      nerve, exacerbating anxiety
+* The true cause of heartburn / GERD
+  - heartburn result of too much pressure in gastrointestinal system
+  - excessive pressure causes stomach acid to push through LES and up through
+    esophagus where it is stopped by UES and sent back down into stomach
+  - constant increase in pressure, weakening of LES, and reflux causes symptoms
+    of GERD
+** Reflux can be caused by:
+   - bacterial / archaeal overgrowth in intestines causes excessive hyrdogen /
+     methane gas production, increasing gastrointestinal pressure
+   - upper gut overgorwth in stomach upregulates protein fermentation and
+     increases pressure, weakening LES
+   - over ingestion of fermenting food and beverages (carbonated water, FODMAPS,
+     and protein)
+   - ingestion of GMO's
+   - tight fitting clothing
+   - incorrect posture increases pressure
+   - weakend LES due to increased pressure causing more stomach contents to be
+     forced up through esophagus
+   - lack of digestive enzymes, resulting in poor digestion of food that can
+     lead to excessive fermentation
+   - yeast overgrowth causes excessive fermentation
+   - constipation leading to toxin retention, leaky gut, downregulation of MMC
+     function, increased fermentation, and dysbiosis
+   - decrease of stomach acid productions leads to microbiome dysbiosis and poor
+     protein digestion
+   - poorly functional gallbladder, liver, or pancreas resulting in either
+     digestive enzyme or bile production problems
+   - having hiatal hernia
+   - improper defecation posture
+   - parasites
+** GERD
+   - gastroesophageal reflux disease is condition where mucosal damage is done
+     to esophagus from chronic stomach acid and pepsin being trapped between
+     stomach and upper esophageal sphincter. This "trapping" gives
