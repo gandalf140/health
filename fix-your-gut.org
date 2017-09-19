@@ -380,3 +380,201 @@
       symptoms as if person is infected with SIBO
     - SIYO is rare, but can happen
     - same vicious cycle
+    - diagnosis
+      - alcohol challenge test
+      - genova GI effects
+*** Restore proper MMC function protocol
+**** SIBO-C (constipation)
+     - wait at least four hours in between meals. no snacking!
+     - exercise more and walk as much as possible
+     - use squatty potty when you defecate
+     - supplement with tiphala - one capsule, twice daily with food
+     - magnesium malate - supplement 200 mg per 50 lbs of body weight
+**** SIBO-D (diarrhea)
+     - include ECPO as antimicrobial agent
+     - new chapter ginger force - one softgel, twice daily with meals
+     - wait at least four hours in between meals. No snacking!
+     - exercise more and walk as much as possible
+     - use squatty potty
+     - take upgraded activated charcoal, two capsules two hours after every meal
+     - magnesium glycinate - supplement 200 mg per 50 lbs of body weight
+**** If you have low stomach acid
+     - follow betaine hcl protocol (ch 12)
+     - urban moonshine digestive bitters - do not use if you have histamine
+       intolerance, ulcers, or gastritis
+**** If suffering from SIYO
+     - thorne research molybdenum glycinate - one capsule every other day with meals
+     - pure coenzyme a - follow the general supplement instructions
+**** General SIBO MMC Advice
+     - consider talking to your gastroenterologist about use of erythromycin (50
+       mg nightly) if SIBO does not improve in few months
+     - ginger, fasting between meals, exercising, using a squatty potty,
+       magnesium, increasing stomach acid, and the use of the medications have
+       been shown to help properly regulate the MMC
+     - aldehydes have been shown to interfere with the MMC and molybdenum can
+       help your body detoxify them
+     - SIYO reduces coenzyme A production which interferes with the MMC
+     - ECPO helps to calm MMC and can help reduce diarrhea by reducing
+       intestinal spasms
+*** Mild SIBO-C Protocol
+**** For two to four weeks:
+***** Choose one strong antimicrobial agent
+      - colloidal silver (mesosilver, sovereign silver) - follow supplement
+        bottle recommendations
+      - thorne research berberine - take 500 mg, two capsules daily. Use with
+        caution if you have ulcers, gastritis, or hypoglycemia
+      - allicin-C - follow supplement bottle recommendations
+      - neem - take two capsules two times daily with meals
+      - atrantil - follow supplement bottle recommendations
+***** Anti-biofilm protocol
+      - preferred: symbiotics lactoferrin - follow supplement bottle
+        recommendations (can increase up to two grams daily if needed)
+      - or choose one of the following from anti-biofilm agents
+        - calcium disodium EDTA: MRM Cardio Chelate - follow general supplement recommendations
+        - fulvic acid: food grade fulvic acid - follow general supplement recommendations
+        - guaifenesin: guai-aid - take one capsule every four to eight hours. Do
+          not exceed four capsules daily. Gauifenesin is a systemic biofilm
+          chelator; I do not recommend it as a first-line anti-biofilm agent in
+          a protocol
+        - NAC: Jarrow Formulas NAC Sustain - one table twice daily. NAC is a
+          systemic biofilm chelator; I do not recommend it as a first-line
+          anti-biofilm agent in a protocol. Do not supplement more than 1,200 mg
+          daily, doses above this recommendation may make the NAC you take
+          become a pro-oxidant
+        - Systemic enzymes: interphase plus, PRX enzyme formula, Neprinol AMD -
+          follow general supplement recommendations
+***** Other protocol advice:
+      - extra virgin coconut oil - consume two tablespoons daily
+      - reduce polyols and go on a gluten-free diet. For symptom relief consider
+        a low-FODMAP diet
+      - galactomune - one scoop daily mixed well with filtered water at
+        breakfast. Use with caution if you have yeast overgrowth or Th2 elevated issues.
+      - calcium disodium EDTA chelates iron out of biofilm to break it up
+      - NAC or lactoferrin will do same thing
+      - coconut oil used to reduce yeast overgrowth in colon and inhibit archea overgrowth
+*** Mild SIBO-D Protocol
+**** For two to four weeks:
+***** Antibacterial
+      - preferred: nature's way enteric coated peppermint oil - thirty to sixty
+        minutes before meals, twice daily
+      - or choose one of the following antibacterial agents from this list
+        - colloidal silver (mesosilver, sovereign silver) - follow supplement
+          bottle recommendations
+        - thorne research berberine - take 500 mg, two capsules daily. Use with
+          caution if you have ulcers, gastritis, or hypoglycemia
+        - ceylon cinnamon oil - take one drop in one tsp of extra virgin coconut
+          oil or extra virgin olive oil, twice daily. Use with caution if you
+          have hypoglycemia
+***** Anti-biofilm protocol
+      - preferred: symbiotics lactoferrin - follow supplement bottle
+        recommendations (can increase up to two grams daily if needed)
+      - or choose one of the following from anti-biofilm agents instead
+        - calcium disodium EDTA: MRM Cardio Chelate - follow general supplement recommendations
+        - fulvic acid: food grade fulvic acid - follow general supplement recommendations
+        - guaifenesin: guai-aid - take one capsule every four to eight hours. Do
+          not exceed four capsules daily. Gauifenesin is a systemic biofilm
+          chelator; I do not recommend it as a first-line anti-biofilm agent
+        - NAC: Jarrow Formulas NAC Sustain - one table twice daily. NAC is a
+          system biofilm chelator; I do not recommend it as a first-line
+          anti-biofilm agent. Do not supplement more than 1,200 mg daily
+        - system enzymes: interphase plus, PRX enzyme formula, neprinol AMD -
+          follow general supplement recommendations
+***** Other protocol advice
+      - extra virgin coconut oil - consume two tablespoons daily
+      - reduce polyols and go on gluten-free diet. For symptom relief consider a
+        low-FODMAP diet
+      - Galactomune - one scoop daily mixed well with filtered water at
+        breakfast. Use with caution if you have yeast overgrowth or Th2 elevated issues
+*** Cycling of antibacterial agents and anti-biofilm agents
+    - if SIBO symptoms do not get better after one month of following protocols,
+      need to switch antibacterial / anti-biofilm agents with ones haven't used yet
+    - also might need to obtain prescriptions for antibiotics
+*** Supplements to reduce a bacterial hex reaction
+    - jarrow milk thistle - follow general bottle recommendations
+    - upgraded activated charcoal - follow supplement recommendations, no more
+      than 12 capsules daily
+    - l-glutamine - take 4,000 mg, daily with food (use with caution if you have
+      a sensitivity to glutamic acid, deficiency in GABA, or severe leaky gut
+      and brain)
+    - take daily epsom salt baths and maintain proper hydration to reduce toxins
+    - ingest raw carrot salad to help reduce estrogen and endotoxin build up in
+      gut. Grate one raw organic carrot, mix with one tablespoon extra virgin
+      olive oil, one tablespoon of extra virgin coconut oil, and one tsp of
+      apple cider vinegar. Use with caution if your have histamine or fat
+      malabsorption issues
+*** Supplements to alleviate brain fog (concentration and memory issues):
+    - oxaloacetate - follow supplement recommendations (brain fog)
+    - pinella - follow supplement recommendations (brain fog)
+    - alcohol in tincture so use with caution if sensitive
+*** Supplements to alleviate Th1 inflammation and pain (gram-negative non histamine producing bacterial infections)
+    - black cumin seed oil - one tablespoon with a meal. Use with caution if you
+      have gastritis
+    - boswellia - follow supplement recommendations
+    - thorne curcumin
+    - olive leaf extract
+    - milk thistle helps detoxify liver
+    - oxaloacetate has been shown to reduce brain fog
+    - charcoal helps bind bacterial endotoxins
+    - l-glutamine helps repair the intestinal healing
+    - epsom salt baths help break down and eliminate toxins
+*** Rebuilding the gut
+**** Basic protocol
+     - l-glutamine is most abundant amino acid in body and helps rebuild stomach
+       lining and gut
+     - use of GOS helps regulate motility and improve probiotic bacteria colonization
+     - curcumin increases immune cells in gut and heals inflammation
+     - body makes n-acetylglucosamine to increase mucus production in stomach
+       and gut
+***** For a month:
+      - jarrow l-glutamine - 8,000 mg, take in divided doses, three times daily
+        on with food (use with caution if you have a sensitivity to glutamic
+        acid, deficiency in GABA, or severe leaky gut and brain)
+      - galactomune - one scoop daily mixed well with water at breakfast
+      - thorne curcumin
+      - n-acetylglucosamine (do not use if allergic to shellfish or have yeast overgrowth)
+***** For three months:
+      - magnesium glycinate - 600 mg taken before bed daily
+**** Severe protocol
+***** For a month:
+      - jarrow l-glutamine - 20,000 mg total. Take in three divided doses each
+        day with food. Reduce by 5,000 mg each week until completion
+      - galactomune - one scoop daily with water at breakfast
+      - thorne curcumin
+      - n-acetylglucosamine
+      - seacure white fish protein supplement
+***** For three months:
+      - magnesium glycinate - take 600 mg, before bed
+*** Stool changes and indications to your health
+**** Stool color
+***** Mid to dark brown
+      - considered normal healthy color. Brown from bile in stool
+***** Black tarry, sticky stools (melena)
+      - may have bleeding in upper intestinal tract or stomach
+      - melena usually sign of peptic or duodenal ulcer
+      - black from oxidation or iron in hemoglobin of blood
+      - less common causes of melena are ingestion of bismuth subsalicylate,
+        severe nose bleed, iron supplementation, consuming of dark foods (like
+        black licorice), and blood ingested from eating of certain foods (blood sausage)
+***** Red stool color (hematochezia)
+      - bleeding in lower digestive tract or anus
+      - causes of hematochezia are hemorrhoids, straining while defecating,
+        diverticulosis, IBD, and rarely colorectal cancer, ingestion of beets (beeturia)
+***** Gray or clay colored stool
+      - gray little or no bile
+      - signifies biliary obstruction of gallbladder or pancreas
+      - sign of obstruction of bile duct from gallbladder to pancreas
+      - caused by something like gallstone or even tumor
+      - antacids that contain aluminum hydroxide have been known to cause gray stool
+***** Yellow stool
+      - undigested fat in stool
+      - acute or chronic pancreatitis, obstruction of pancreatic duct, GERD,
+        diarrhea, lack of digestive enzymes, liver disease, and gallbladder defect
+      - sign that fecal matter is passing through digestive tract too quickly
+***** Green stool
+      - either caused by diarrhea, pigment from ingesting food dye, or ingesting
+        green leafy vegetables. Iron supplements known to cause green stools
+***** Orange stool
+      - ingestion of food high in beta-carotene or medication, aluminum
+        hydroxide. May rarely be symptom of stool not absorbing bile salts.
+        Diarrhea, gallbladder issues, gallstones, pancreatic issues, or liver
+        issues can cause orange stools
