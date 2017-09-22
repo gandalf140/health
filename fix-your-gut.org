@@ -289,8 +289,134 @@
 ** GERD
    - gastroesophageal reflux disease is condition where mucosal damage is done
      to esophagus from chronic stomach acid and pepsin being trapped between
-     stomach and upper esophageal sphincter. This "trapping" gives
+     stomach and upper esophageal sphincter. This "trapping" gives afflicted
+     person feeling of heartburn
+** Conventional Medicine's Failed Treatments for GERD/The average GERD "cycle"
+*** GERD medicine treatment
+    - acid-reducing medications
+    - only mask symptoms
+    - leads to
+      - loss of intrinsic factor (B12 deficiency)
+      - weakening of LES (magnesium deficiency)
+      - food allergies from improper digestion
+      - SIBO
+      - can actually cause worse GERD as body tries to correct
+**** H2 antagonists
+     - ex pepcid AC, zantac
+     - safest because they only suppress for six hours
+**** proton pump inhibitors
+     - ex prilosec, prevacid
+     - if you take PPI longer than month some extra issues might develop
+     - block for 1-2 days
+**** Nissen Fundoplication
+     - stapling top part of stomach around LES so it is strengthened
+     - side effects of gas bloat syndrome, dysphagia, and gastric dumping syndrome
+     - may come undone
 ** H Pylori
+*** Protocol 2 - Possible eradication or reduction of h pylori
+*** H pylori and humans
+    - coexisted with humans long time
+    - spread through saliva, gastric juice, and fecal contact
+*** The esophagus / lungs paradox
+*** What about asthma?
+    - diffuse h pylori colonization in stomach helps create robus low-grade
+      mucosa-associated lymphoid tissue (MALT) which is first line of defense
+      against allergic proteins
+*** h pylori the hobo bacteria
+    - opportunistic in mouth, stomach and duodenum
+    - four main areas in stomach
+      - cardia - part of stomach where esophgus empties into stomach
+      - fundus - top part of stomach
+      - body - largest part of stomach, middle
+      - pylorus - lower part of stomach attached to duodenum
+    - transient nature of bacteria and ability to embed deeply into mucosal
+      barrier to avoid immune system detection is why it can be hard to biopsy accurately
+*** When h pylori goes rogue
+    - survival strategies
+      - embed deep in mucosal lining
+      - colonize multiple parts of digestive system: oral cavity, esophagus,
+        LES, stomach, and duodenum
+      - transient
+      - manipulate and infect brain-gut axis to modulate digestion. Able to
+        reduce stomach acid and pepsin production to proliferate further into
+        stomach and duodenum. Can regulate esophageal and gastric motility,
+        change hypersensitivity to chemical and mechanical digestive stimulants,
+        manipulate gastric blood flow, and influence what we eat. Can modulate
+        digestive neurotransmitters including acetylcholine, noradrenaline,
+        adrenaline, and dopamine. Can modulate leptin, ghrelin, calcitonin
+        gene-related peptide (CGRP), nitric oxide, neuropeptide Y, substance P
+        (SP), somatostatin (STS) and cholecystokinin (CCK)
+      - h pylori avoid immune system detection by modulating inflammatory
+        pathways, avoiding immune pattern recognition receptors by using
+        endotoxins and flagellin, produce biofilms, reduce phagocyte potential,
+        reduce enogenous nitric oxide production (increases blood pressure and
+        promotes vasoconstriction), and by reducing T cell response
+    - can cause medicate conditions and health issues
+      - shed potent endotoxins that leak into bloodstream and increase
+        inflammatory markers. Increased risk for heart and liver disease
+      - autoimmune conditions: immune thrombocytopenic purpura, co-infection
+        with K pneumoniae as cause of rheumatoid arthritis, co-infection with
+        staph as cause of lupus, sjogren's syndrome. Behcet's disease, wegner's
+        granulomatosis, burning mouth syndrome, and scleroderma
+      - h pylori are main cause of gastrointestinal ulcers
+      - h pylori overgrowth increases risk of developing duodenal, esophageal,
+        stomach cancer, and MALT lymphoma
+      - h pylori can reduce esophageal motility, gastric emptying, and small
+        intestine emptying (third wave of MMC)
+      - elevate cortisol and adrenaline production causing adrenal fatigue
+      - clear cause of histamine intolerance and eosinophilic esophagitis
+        because can modulate histamine and mast cell function
+      - can infect brain-gut axis, leading to vagus nerve issues, anxiety,
+        depression, brain fog, dementia, reduced memory capacity (lower BDNF),
+        fluctuations in appetite, lower HRV, and digestive issues
+*** Supplementation protocol to reduce h pylori colonization
+    - supplements that reduce intestinal microbiota diversity and should not be
+      used in first round protocol unless necessary include:
+      - allicin-c
+      - berberine
+      - lactoferrin
+      - interphase plus
+      - nac
+      - oil of oregano
+    - supplements that work systemically and may reduce systemic microbiome
+      diversity and should not be used unless necessary:
+      - nac
+      - oil of oregano
+**** Part 1: antimicrobial supplements
+     - supplements to reduce overgrowth in mouth
+       - collodial silver (mesosilver) - take one tablespoon and swish for few
+         minutes, spit out silver after swishing and rinse
+       - zane hellas oil of oregano - swish with two drops for minute, spit out
+         and rinse
+       - ceylon cinnamon oil - swish with one drop, diluted in 2 oz of water for
+         minute, spit and rinse
+       - oil pulling with organic extra virgin coconut oil or extra virgin
+         olive oil. Take tablespoon of either oil and swish for fifteen to
+         twenty minutes. Spit out and rinse
+     - supplements to reduce overgrowth in stomach and duodenum
+       - colloidal silver - follow recommendations
+       - oil of oregano - follow recommendations
+       - berberine - two capsules, twice daily. Use with caution if you have
+         ulcers, gastritis, or hypoglycemia
+       - allicin-c - two to eight capsules daily in divided doses with food
+       - bismuth - kaopectate vanilla
+       - manuka honey - one tablespoon twice daily with food
+       - ceylon cinnamon oil - one drop in one tsp of extra virgin coconut oil
+         or extra virgin olive oil twice daily
+     - a supplement only to be used in severe cases of overgrowth:
+       - sodium butyrate - may cause severe gastritis
+**** Part 2: supplements that reduce biofilm formation
+     - symbiotics lactoferrin - one to two grams daily, divided doses with food
+     - interphase plus - one to two capsules, on empty stomach, twice daily
+     - nac - (should only be used in system overgrowth of h pylori) 600 mg,
+       twice daily
+**** Part 3: supplements that boost immune function
+     - liposomial colostrum - one tbsp, mixed in filtered water, consumed at breakfast
+     - olive leaf extract - one to two capsules, twice daily with food
+     - s bouardii - one to two capsules before bed. Use filtered or bottled
+       water when ingesting. Use with caution if you suffer from histamine
+       intolerance and or Th2 dominance
+     - gutpro capsules - one to two capsules before bed
 *** Ulcers
     - mostly caused by h pylori infection
     - can also be caused by NSAID's and other certain medication overuse,
@@ -338,7 +464,6 @@
 *** Supplements to stop a yest herx reaction
 *** Maintenance Candida Protocol
 ** Protocol 10 - Constipation
-   - see chapter 9
 ** Protocol 11 - Maintain Proper Chloride Levels in Stomach
    - take 1/4 tsp of good quality sea salt, real salt, or pink salt in glass of
      filtered warm water on waking to help adrenal function and jump start digestion
