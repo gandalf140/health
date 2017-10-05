@@ -580,7 +580,31 @@
       - coughing and throat clearing
       - heart disease
       - sudden cardiac death
-* Disorders of the intestines
+    - causes
+      - hiatal hernia
+      - abdominal hernia
+      - abdominal hernia repair
+      - excessive gas in abdomen (SIBO, lactose intolerance, fructose
+        intolerance, food intolerance, upper gut infection)
+      - gas bloat syndrome (failure to burp)
+      - gastric bypass
+      - gallbladder issues
+      - being overweight
+    - recovery
+      - reduce hiatal hernia
+      - reduce gas formation in stomach and intestinal tract
+      - treat sibo
+      - good stomach acid levels
+      - chew food well and slowly
+      - exercise regularly
+      - supplement with magnesium and omega 3s
+      - sleep on back or side
+      - strengthen diaphragm
+* Chapter 7: Motility disorders of esophagus
+** Esophegeal spasms
+* Chapter 8: Disorders of the abdominal area
+** Abdominal hernia
+* Chapter 9: Disorders of the intestines
 ** SIBO / SIYO / Leaky Gut Syndrome
    - SIBO is opportunistic bacterial infection in small intestine
    - caused by combination of poor american diet and long-term use of
@@ -868,3 +892,22 @@
         hydroxide. May rarely be symptom of stool not absorbing bile salts.
         Diarrhea, gallbladder issues, gallstones, pancreatic issues, or liver
         issues can cause orange stools
+** Irritable bowel syndrome
+   - possibly caused by bacterial, protozoan, or parasite infection
+   - symptoms
+     - constipation
+     - diarrhea
+     - rosacea
+     - bloating
+     - gas
+     - abdominal pain
+   - proposed causes
+     - SIBO
+     - yeast overgrowth
+     - mass consumption of GMO's
+     - stress
+     - hypothyroid/adrenal fatigue
+     - combination of leaky gut syndrome and SIBO
+*** Diarrhea
+    - medical condition in which someone has three or more loose bowel movements
+      in twenty four hour period
