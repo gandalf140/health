@@ -1033,6 +1033,89 @@
      - stress
      - hypothyroid/adrenal fatigue
      - combination of leaky gut syndrome and SIBO
+*** Constipation
+    - bad effects
+      - toxins build up due to slow transit time
+      - body absorbs toxin from slow moving waste
+      - waste ferments longer and causes growth of bacteria, gas, and heartburn
+        by causing slow gastric emptying, excessive abdominal pressure, and
+        bloating in abdomen
+    - causes
+      - lack of magnesium
+      - dehydration
+      - lack of fiber
+      - prescription drugs
+      - hypothyroidism
+      - adrenal fatigue
+      - lack of exercise
 *** Diarrhea
     - medical condition in which someone has three or more loose bowel movements
       in twenty four hour period
+**** IBS protocol for diarrhea
+     - magnesium glycinate - take 400 mg before bed
+     - enzymedica digestive enzyme gold - one to two capsules with every meal
+     - bulletproof or perfect health diet
+     - jarrow l-glutamine - 6000-8000 mg daily with food
+     - average probiotic protocol for two to four weeks (ch 13)
+     - n-acetylglucosamine - supplement recommendations
+     - upgraded activated charcoal - supplement recommendation
+***** Taken for one month only
+      - nature's way enteric coated peppermint oil - thirty to sixty minutes
+        before meals twice daily
+***** Anti-biofilm protocol
+      - symbiotics lactoferrin
+***** If diarrhea does not stop after week
+      - rainforest pharmacy sangre de drago - recommendations
+      - bile acid malabsorption protocol (ch 4)
+      - thorne curcumin
+** Chronic functional abdominal pain
+   - ongoing abdominal pain with no known explanation
+   - been linked to different viral, bacterial, or protozoan infections
+** Ulcerative colitis and crohn's disease
+** Gluten intolerance / celiac disease
+*** What is gluten and problem with eating wheat?
+    - gluten binding protein, contains gliadin and glutenin
+    - on digestion, gliadin reduced to five polypeptides, which bind to opiate
+      receptors in brain making wheat addictive
+    - also stimulates appetite
+    - gliadin increases small intestinal permeability leading to leaky gut
+    - glutenin binds with leptin receptor causing hunger
+*** Gluten intolerance
+    - different from celiac, more an allergy where celiac is autoimmune disease
+    - symptoms
+      - migraines
+      - abdominal bloating
+      - abomdinal discomfort or pain
+      - diarrhea
+      - nausea
+      - vomiting
+      - weight loss
+    - unlike celiac, gluten intolerance may be improved if you strengthen,
+      repair gut, and relieve any digestion related issues
+    - still recommend abstaining from gluten because of negatives associated
+      with consumption
+    - testing for gluten sensitivity can be finicky
+**** Gluten intolerance protocol
+     - gluten-free diet
+     - gut rebuilding protocol (ch 9) for three months
+     - enzymedica glutenease if eating meal that might have gluten
+     - average to advanced probiotic protocol
+     - test and treat sibo
+     - might be possible to eliminate gluten intolerance by following GAPS diet
+       to completion (three months to year)
+**** Celiac Disease
+     - true autoimmune response
+     - autoimmune conditions caused by toxin exposure, unknown pathogens, lack
+       of nutritional element, or a poorly functioning immune system
+     - disagreement on whether cause of autoimmune reaction is severe allergic
+       reaction, genetics, or severe leaky gut cases through constant contact
+       with gliadin proteins
+     - likely caused by severe leaky gut caused by gliadin overexposure, which
+       leads to elevated inflammation
+     - when someone with celiac encounters gliadin, antibodies produced from
+       exposure interfere with enzyme transglutaminase in intestine
+     - transglutaminase modifies gliadin protein to break down properly
+     - when this happens, body's immune system continues to overreact from
+       improperly digested gliadin proteins and creates severe inflammatory
+       response that further destroys villi and mucus barrier of intestinal tract
+** Appendicitis
